@@ -67,7 +67,7 @@ Tests: 4, Passed: 4, Failed: 0
 [success] Total time: 3 s, completed May 16, 2018 3:50:00 PM
 ```
 
-## Test Failure Outout
+## Test Failure Output
 ```sh
 -------------------------------- Running Tests --------------------------------
 + example.NavKlaraVideoSpec.Klara videos.Fetch a single video.Given there is a video added to elasticsearch with id dn.screen9.1uwHxJLDuuBKBHGHQcissw 34ms
