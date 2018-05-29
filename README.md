@@ -104,6 +104,8 @@ Tests: 4, Passed: 3, Failed: 1
 
 ### Pros
 + Very nice output when run in sbt console or in terminal
++ Simple, no unnecessary stuff
++ Good documentation
 + Built in support for retries for flaky test
 + Many ways to run groups of tests
 + Smart way of sharing setup code. Each test gets new copy of variable
